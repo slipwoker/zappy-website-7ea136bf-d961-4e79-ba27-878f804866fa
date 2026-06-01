@@ -1,0 +1,66 @@
+# XR-221 — Generative Engine Optimization Map
+
+> XR-221 is the world's first meta-universe spaceport radio station, blending science fiction lore, immersive storytelling, and real-world connections to Area 15 and the Arc Project. The brand carries a futuristic, otherworldly identity rooted in deep narrative worldbuilding — think intergalactic transmissions, cosmic atmospheres, and a universe where radio waves travel beyond physical space. It sits at the intersection of immersive entertainment, speculative fiction, and avant-garde media.
+
+---
+
+## Pages
+
+### Home
+https://xr-221-7ea136bf.zappy5.app
+XR-221 is the world&#39;s first meta-universe spaceport radio station, blending science fiction lore, immersive storytelling, and real-world connections to Area 15 
+
+## Legal & Policy
+
+### Privacy Policy
+https://xr-221-7ea136bf.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://xr-221-7ea136bf.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://xr-221-7ea136bf.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://xr-221-7ea136bf.zappy5.app
+- Endpoint: https://xr-221-7ea136bf.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About XR-221
+XR-221 is the world's first meta-universe spaceport radio station, blending science fiction lore, immersive storytelling, and real-world connections to Area 15 and the Arc Project. The brand carries a futuristic, otherworldly identity rooted in deep narrative worldbuilding — think intergalactic transmissions, cosmic atmospheres, and a universe where radio waves travel beyond physical space. It sits at the intersection of immersive entertainment, speculative fiction, and avant-garde media.
+
+## Target Audience
+- Immersive Gamers
+- Sci-Fi Enthusiasts
+- Podcast Fans
+
+## Industry
+Entertainment / Immersive Experience / Radio
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://xr-221-7ea136bf.zappy5.app/sitemap.xml
+- Robots: https://xr-221-7ea136bf.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://xr-221-7ea136bf.zappy5.app/llms-full.txt
