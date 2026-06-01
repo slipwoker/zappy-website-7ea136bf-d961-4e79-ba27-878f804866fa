@@ -7,21 +7,21 @@
 ## Pages
 
 ### Home
-https://xr-221-7ea136bf.zappy5.app
+https://example.com
 XR-221 is the world&#39;s first meta-universe spaceport radio station, blending science fiction lore, immersive storytelling, and real-world connections to Area 15 
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://xr-221-7ea136bf.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://xr-221-7ea136bf.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://xr-221-7ea136bf.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -31,8 +31,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://xr-221-7ea136bf.zappy5.app
-- Endpoint: https://xr-221-7ea136bf.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -61,6 +61,6 @@ Entertainment / Immersive Experience / Radio
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://xr-221-7ea136bf.zappy5.app/sitemap.xml
-- Robots: https://xr-221-7ea136bf.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://xr-221-7ea136bf.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
