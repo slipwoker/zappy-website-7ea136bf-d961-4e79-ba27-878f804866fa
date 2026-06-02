@@ -2,13 +2,13 @@
 
 XR-221 is the world's first meta-universe spaceport radio station, blending science fiction lore, immersive storytelling, and real-world connections to Area 15 and the Arc Project. The brand carries a futuristic, otherworldly identity rooted in deep narrative worldbuilding — think intergalactic transmissions, cosmic atmospheres, and a universe where radio waves travel beyond physical space. It sits at the intersection of immersive entertainment, speculative fiction, and avant-garde media.
 
-Source: https://example.com
+Source: https://xr-221.zappy5.app
 
 ---
 
 ## XR-221 spaceport radio — XR-221
 
-URL: https://example.com
+URL: https://xr-221.zappy5.app
 Description: XR-221 is the world&#39;s first meta-universe spaceport radio station, blending science fiction lore, immersive storytelling, and real-world connections to Area 15 
 
 XR-221 spaceport radio — XR-221
@@ -746,7 +746,7 @@ XR-221 broadcasts immersive experiences, deep-signal radio, and curated audio jo
 
 ## Privacy Policy
 
-URL: https://example.com/privacy
+URL: https://xr-221.zappy5.app/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
@@ -932,7 +932,7 @@ XR-221 broadcasts immersive experiences, deep-signal radio, and curated audio jo
 
 ## Accessibility Statement
 
-URL: https://example.com/accessibility
+URL: https://xr-221.zappy5.app/accessibility
 Description: Our accessibility statement - our commitment to digital accessibility
 
 Accessibility Statement
@@ -1124,7 +1124,7 @@ XR-221 broadcasts immersive experiences, deep-signal radio, and curated audio jo
 
 ## Terms & Conditions
 
-URL: https://example.com/terms
+URL: https://xr-221.zappy5.app/terms
 Description: Terms of service - user rights and obligations
 
 Terms & Conditions
